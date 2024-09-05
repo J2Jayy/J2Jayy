@@ -21,6 +21,6 @@
 
 ## 🎓 Affiliation
 
-Kangwon National University
-
+- **Department of Computer Science, Kangwon National University (2021-2024)**
+- **Kangwon National University LikeLion 11th**
 
