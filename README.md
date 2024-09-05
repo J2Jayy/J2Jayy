@@ -39,9 +39,8 @@
 
 ## 📫 Contact Me
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Blog:** [Your Blog](https://your-blog.com)
+- **Email:** [betatest0710@gmail.com](mailto:betatest0710@gmail.com)
+- **IG:** [_J2Jayy]((https://www.instagram.com/j2jayyy/))
 
 ---
 
