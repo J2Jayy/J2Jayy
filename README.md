@@ -1,6 +1,6 @@
 
 
-# Hello! I’m Frontend Developer Jang Sungjun! 👋  
+# Hello! I’m Frontend Engineer Jang Sungjun! 👋  
 
 
 ## 🛠️ Tech Stack
