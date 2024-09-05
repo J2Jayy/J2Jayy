@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/your-image.png" width="150" height="150" alt="Profile Picture" style="border-radius: 50%;">
-  <h2>안녕하세요! I'm Jang Sungjun 👋</h2>
+  <h2>Hi! I'm FE EngineerJang Sungjun 👋</h2>
   <p>Developer with a passion for creating dynamic and user-friendly web applications.</p>
 </div>
 
