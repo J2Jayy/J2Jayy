@@ -1,6 +1,7 @@
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&text=Hi,%20I'm%20JangWooJin,%20a%20passionate%20Backend%20Developer&fontAlignY=30)
 ## Hi there 👋
-
-
 **J2Jayy/J2Jayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
