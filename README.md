@@ -1,7 +1,7 @@
-# Welcome to My GitHub Page!
 
-Hello! I’m Developer Jang Sungjun! 👋  
-Unfortunately, I had to recreate my account. 😢 But I'm excited to start fresh and share my projects with you!
+
+#Hello! I’m Frontend Developer Jang Sungjun! 👋  
+
 
 ## 🛠️ Tech Stack
 
