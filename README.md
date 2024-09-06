@@ -1,5 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&%20render)
 # 🌟 Welcome to My GitHub Page!
-![header](https://capsule-render.vercel.app/api?type=slice&color=#202632&height=300&section=header&text=J2Jayy%20render&fontSize=90)
+
 <div align="center">
   <h2>Hi! I'm FE EngineerJang Sungjun 👋</h2>
   <p>Developer with a passion for creating dynamic and user-friendly web applications.</p>
