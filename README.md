@@ -31,8 +31,8 @@
 
 
 ## 📫 연락처
-- **Email:** [![Gmail Badge](https://img.shields.io/badge/-betatest0710@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:betatest0710@gmail.com)](mailto:betatest0710@gmail.com)
-- **IG:** [![Instagram Badge](https://img.shields.io/badge/-_J2Jayy-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j2jayyy/)](https://www.instagram.com/j2jayyy/)
+[![Gmail Badge](https://img.shields.io/badge/-betatest0710@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:betatest0710@gmail.com)](mailto:betatest0710@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-_J2Jayy-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j2jayyy/)](https://www.instagram.com/j2jayyy/)
 
 ---
 
