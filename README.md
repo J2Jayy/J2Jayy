@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
+<br><br>
 
 
 
@@ -39,6 +40,7 @@
 
 - **강원대학교 컴퓨터공학과(2021-2024)**
 - **강원대 멋쟁이사자처럼 11기**
+<br><br>
 
 
 ## 😄ABOUT ME
@@ -46,6 +48,7 @@
 - MBTI : ENTJ
 - 취미 : 영화, 고전소설, 여행, 보드게임
 - 관심 분야 : FE, UI/UX, 기획 
+<br><br>
 
 ## 📫 연락처
 
