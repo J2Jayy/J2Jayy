@@ -33,15 +33,18 @@
 
 
 ## 🎓 경험
+<div align="center">
 - **강원대학교 컴퓨터공학과(2021-2024)**
 - **강원대 멋쟁이사자처럼 11기**
+</div>
 
 
 
 ## 📫 연락처
+<div align="center">
 [![Gmail Badge](https://img.shields.io/badge/-betatest0710@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:betatest0710@gmail.com)](mailto:betatest0710@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-_J2Jayy-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j2jayyy/)](https://www.instagram.com/j2jayyy/)
-
+</div>
 ---
 
 
