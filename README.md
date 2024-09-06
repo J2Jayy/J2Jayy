@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient)
-# 🌟 Welcome to My GitHub Page!
+<center># 🌟 Welcome to My GitHub Page!</center>
 
 <div align="center">
   <h2 align="center">Hi! I'm FE EngineerJang Sungjun 👋</h2>
