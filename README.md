@@ -21,6 +21,7 @@
 
 
 ## 🛠️ 기술 스택
+<br>
 <div>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -37,14 +38,14 @@
 
 
 ## 🎓 경험
-
+<br>
 - **강원대학교 컴퓨터공학과(2021-2024)**
 - **강원대 멋쟁이사자처럼 11기**
 <br><br>
 
 
 ## 😄ABOUT ME
-
+<br>
 - MBTI : ENTJ
 - 취미 : 영화, 고전소설, 여행, 보드게임
 - 관심 분야 : FE, UI/UX, 기획 
