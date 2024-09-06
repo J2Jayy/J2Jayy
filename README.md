@@ -31,7 +31,7 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 연락처
 
 - **Email:** [betatest0710@gmail.com](mailto:betatest0710@gmail.com)
 - **IG:** [_J2Jayy](https://www.instagram.com/j2jayyy/)
