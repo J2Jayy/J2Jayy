@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient)
-<center># 🌟 Welcome to My GitHub Page!</center>
+
 
 <div align="center">
-  <h2 align="center">Hi! I'm FE EngineerJang Sungjun 👋</h2>
+  <h2 align="center">안녕하세요! 장성준입니다!👋</h2>
   <p>Developer with a passion for creating dynamic and user-friendly web applications.</p>
 </div>
 
