@@ -2,7 +2,7 @@
 # 🌟 Welcome to My GitHub Page!
 
 <div align="center">
-  <h2>Hi! I'm FE EngineerJang Sungjun 👋</h2>
+  <h2 align="center">Hi! I'm FE EngineerJang Sungjun 👋</h2>
   <p>Developer with a passion for creating dynamic and user-friendly web applications.</p>
 </div>
 
