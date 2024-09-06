@@ -1,5 +1,5 @@
 # 🌟 Welcome to My GitHub Page!
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text="Hi! I'm FE EngineerJang Sungjun"%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=J2Jayy's_GITHUB%20render&fontSize=90)
 <div align="center">
   <h2>Hi! I'm FE EngineerJang Sungjun 👋</h2>
   <p>Developer with a passion for creating dynamic and user-friendly web applications.</p>
