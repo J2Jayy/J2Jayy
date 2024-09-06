@@ -7,6 +7,14 @@
 </div>
 
 
+## 🤔 가치관
+<div align="center">
+  <h3 align="center"> ㅁㄴㄹㅁㅇㄴㄹ
+</div>
+
+
+
+
 
 ## 🛠️ 기술 스택
 <div align="center">
