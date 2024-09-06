@@ -3,17 +3,17 @@
   <p>인사이트를 정리하고, 표현하는 FE 개발자입니다🎨</p>
 </div>
 
----
+
 
 ## 🤔 가치관
 <div align="center">
   <!-- 가치관 관련 내용 추가 -->
 </div>
 
----
+
 
 ## 🛠️ 기술 스택
-<div align="center" style="border: 1px solid #ddd; padding: 10px; border-radius: 8px; background-color: #f9f9f9;">
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <br>
@@ -25,7 +25,7 @@
 ---
 
 ## 🎓 경험
-<div align="center" style="border: 1px solid #ddd; padding: 10px; border-radius: 8px; background-color: #f9f9f9;">
+<div>
   <p>강원대학교 컴퓨터공학과 (2021-2024)</p>
   <p>강원대 멋쟁이사자처럼 11기</p>
 </div>
@@ -33,7 +33,7 @@
 ---
 
 ## 📫 연락처
-<div align="center" style="border: 1px solid #ddd; padding: 10px; border-radius: 8px; background-color: #f9f9f9;">
+<div>
   <a href="mailto:betatest0710@gmail.com">
     <img src="https://img.shields.io/badge/-betatest0710@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
