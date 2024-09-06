@@ -25,14 +25,12 @@
 ---
 
 ## 🎓 경험
-
 - **강원대학교 컴퓨터공학과(2021-2024)**
 - **강원대 멋쟁이사자처럼 11기**
 
 ---
 
 ## 📫 연락처
-
 - **Email:** [betatest0710@gmail.com](mailto:betatest0710@gmail.com)
 - **IG:** [_J2Jayy](https://www.instagram.com/j2jayyy/)
 
