@@ -47,3 +47,5 @@
 <div align="center">
   <p>✨ “The best way to predict the future is to create it.” ✨</p>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer)
