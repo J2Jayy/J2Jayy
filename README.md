@@ -7,6 +7,11 @@
 </div>
 
 
+
+---
+# FINAL VOCA : INSIGHT , 洞察
+<br><br>
+
 ## 🤔 가치관
 "**끌리는 서비스를 만드는 것**"
 
@@ -66,9 +71,6 @@
 - 관심 분야 : FE, UI/UX, 기획 
 <br><br>
 
----
-# FINAL VOCA : INSIGHT , 洞察
-<br><br>
 
 ## 📫 연락처
 
