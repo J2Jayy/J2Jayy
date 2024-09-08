@@ -2,8 +2,8 @@
 
 
 <div align="center">
-  <h2 align="center">안녕하세요! 장성준입니다!👋</h2>
-  <p>생각을 표현하는 FE 개발자입니다🎨</p>
+  <h2 align="center">안녕하세요👋</h2>
+  <p>목적을 아는 개발자. 장성준입니😄</p>
 </div>
 
 
