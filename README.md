@@ -1,15 +1,15 @@
 
 
 
-<div align="center">
-  <h2 align="center">안녕하세요👋</h2>
+
+  <h2>안녕하세요👋</h2>
   <p>목적을 아는 개발자. 장성준입니다😄</p>
-</div>
+
 
 
 
 ---
-# FINAL VOCA : INSIGHT , 洞察
+# FINAL VOCA : INSIGHT. 洞察
 <br><br>
 
 ## 🤔 가치관
