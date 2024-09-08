@@ -65,7 +65,10 @@
 - 관심 분야 : FE, UI/UX, 기획 
 <br><br>
 
+---
 # FINAL VOCA : INSIGHT
+---
+<br><br>
 
 ## 📫 연락처
 
