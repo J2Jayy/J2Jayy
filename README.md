@@ -8,7 +8,6 @@
 
 
 
----
 # FINAL VOCA : INSIGHT. 洞察
 <br><br>
 
