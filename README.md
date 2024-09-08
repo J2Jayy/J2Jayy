@@ -67,7 +67,6 @@
 
 ---
 # FINAL VOCA : INSIGHT
----
 <br><br>
 
 ## 📫 연락처
