@@ -66,7 +66,7 @@
 <br><br>
 
 ---
-# FINAL VOCA : INSIGHT
+# FINAL VOCA : INSIGHT , 洞察
 <br><br>
 
 ## 📫 연락처
