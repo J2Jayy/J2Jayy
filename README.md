@@ -8,7 +8,8 @@
 
 
 
-# FINAL VOCA : INSIGHT. 洞察
+# INSIGHT. 洞察
+
 <br><br>
 
 ## 🤔 가치관
