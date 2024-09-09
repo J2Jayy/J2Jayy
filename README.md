@@ -54,13 +54,13 @@
 - 노인을 위한 인터넷 커뮤니티 사이트 ( 기획, UI/UX , Sub FE )
 - 중고거래 물품의 적절한 시세를 표시해주는 웹  ( 기획 , Sub FE )
 
-
+<br>
 
 
 ## 👉앞으로 해나갈 프로젝트
 
 - 마이데이터를 활용한 소득분위 측정 및 한국 내 순위 매김 사이트 런칭
-<br> &ensp; 이를 기반으로 한, Instagram 연동과 취미 커뮤니티 / 매칭 서비스 운영.
+<br> &ensp; ➔이를 기반으로 한, Instagram 연동과 취미 커뮤니티 / 매칭 서비스 운영.
 - 남성용 구독형 외모관리 서비스 기획
 - 재무관리의 가입율을 높일수 있는, 매력적인 방식 (가제)
 
@@ -80,7 +80,7 @@
 <br><br>
 
 
-## 😄ABOUT ME
+## 😄 장성준에 대하여
 
 - MBTI : ENTJ
 - 취미 : 영화, 고전소설, 여행, 보드게임
@@ -88,7 +88,7 @@
 <br><br>
 
 
-## 📫 CONTACT
+## 📫 연락처
 
 [![Gmail Badge](https://img.shields.io/badge/-betatest0710@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:betatest0710@gmail.com)](mailto:betatest0710@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-_J2Jayy-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j2jayyy/)](https://www.instagram.com/j2jayyy/)
