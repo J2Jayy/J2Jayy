@@ -16,7 +16,8 @@
 "**끌리는 서비스를 만드는 것**"
 
 - 사람들이 중독적으로 찾을 수 있는 아이템을 항상 고민합니다.
-- 그렇기에, 
+
+- 사람들을 끌어당기는것은 , 좋은 아이디어와 편안하고
 - 눈에 보이는 단계까지의 프로그래밍을 많이 했었습니다.
 - 
 - 유려한 디자인과 , 편안한 UI/UX 디자인에도 관심이 많습니다.
@@ -72,7 +73,7 @@
 ## 🎓 소속
 
 - **강원대학교 컴퓨터공학과(2021-2024)**
-- **강원대 멋쟁이사자처럼 11기**
+- **강원대 멋쟁이사자처럼 11기(2023)**
 - **신한 프로디지털아카데미 5기 (진행중)**
 <br><br>
 
@@ -85,7 +86,7 @@
 <br><br>
 
 
-## 📫 연락처
+## 📫 CONTACT
 
 [![Gmail Badge](https://img.shields.io/badge/-betatest0710@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:betatest0710@gmail.com)](mailto:betatest0710@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-_J2Jayy-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j2jayyy/)](https://www.instagram.com/j2jayyy/)
