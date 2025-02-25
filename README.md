@@ -1,4 +1,4 @@
-
+<!--
 
 
 
@@ -73,7 +73,7 @@
 
 <br><br><br>
 
-
+-->
 
 ## 🎓 소속
 
@@ -82,7 +82,7 @@
 - **신한 프로디지털아카데미 5기 (진행중)**
 <br><br>
 
-
+<!--
 ## 😄 장성준에 대하여
 
 - MBTI : ENTJ
@@ -90,7 +90,7 @@
 - 관심 분야 : FE, UI/UX, 기획 
 <br><br>
 
-
+-->
 ## 📫 연락처
 
 [![Gmail Badge](https://img.shields.io/badge/-betatest0710@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:betatest0710@gmail.com)](mailto:betatest0710@gmail.com)
