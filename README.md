@@ -79,7 +79,7 @@
 
 - **강원대학교 컴퓨터공학과(2021-2024)**
 - **강원대 멋쟁이사자처럼 11기(2023)**
-- **신한 프로디지털아카데미 5기 (진행중)**
+- **신한 프로디지털아카데미 5기 (2024.09~2024.03)**
 <br><br>
 
 <!--
@@ -95,4 +95,4 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-betatest0710@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:betatest0710@gmail.com)](mailto:betatest0710@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-_J2Jayy-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j2jayyy/)](https://www.instagram.com/j2jayyy/)
--->
+
